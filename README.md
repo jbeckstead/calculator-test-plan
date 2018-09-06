@@ -7,30 +7,37 @@ You will be using Markdown and GitHub to share your work with potential employer
 
 ![TI-108 Image](./calc-image.jpeg)
 
-The specifications of the Calculator
-1. Battery/Solar Powered
-2. On/Clear function
-3. Addition
-4. Subtraction
-5. Multiplication
-6. Division
-7. Parathesis
-8. Decimal Point
-9. 0 thru 9 Numerals
-10. Equal Sign
-11. Ignore the Six buttons above the Numerals (Three memory buttons and three advanced math buttons)
+> Above is the physical calculator that is intended to be tested via your Test Plan
 
-What is required in the Test Plan that students will submit?
+### _Calculator Specifications_
+The Buttons listed below are what you need to write your Test Plan around:
+1. On/Clear
+2. Addition
+3. Subtraction
+4. Multiplication
+5. Division
+6. Decimal Point
+7. 0 thru 9 Numerals
+8. Equal Sign
+
+**Ignore the six red buttons above the Numerals (Three memory buttons and three advanced math buttons)**
+
+### _Test Plan Requirements_
+
+A well formed and thorough Test Plan will include at minimum the following sections:
 - Testing Strategy/Approach
-- Schedule
+- User Base
 - Resources needed to test
-- Test Cases
+- Schedule
 - Test Scenarios
+- Test Cases
 - Risks
 - Suspension Criteria
-- User Base
-- Needs to answer these questions:
-	- What are it's boundaries?
-	- What is the conditions of success?
-	- What environment will this be used in?
+
+And will answer these questions:
+- What are the system boundaries?
+- What is the conditions of success?
+- What environment(s) will this be used in?
+- How will results be reported on?
+
 
